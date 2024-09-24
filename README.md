@@ -1,13 +1,13 @@
 # surviving-titanic
-Studying Factors that Contributed to Survivability of Titanic Passengers
+**Studying Factors that Contributed to Survivability of Titanic Passengers**
 
-Objective: Developed a logistic regression model to predict passenger survival on the Titanic based on variables such as gender, passenger class, and other demographic factors.
+**Objective**: Developed a logistic regression model to predict passenger survival on the Titanic based on variables such as gender, passenger class, and other demographic factors.
 
-Skills: Data Preparation, Logistic Regression, Feature Engineering, Classification Metrics, Data Cleaning, Exploratory Data Analysis (EDA)
+**Skills**: Data Preparation, Logistic Regression, Feature Engineering, Classification Metrics, Data Cleaning, Exploratory Data Analysis (EDA)
 
-Tools: Python, Pandas, NumPy, Seaborn, Matplotlib, StatsModels, Scikit-learn
+**Tools**: Python, Pandas, NumPy, Seaborn, Matplotlib, StatsModels, Scikit-learn
 
-Approach:
+**Approach**:
 
 - Performed comprehensive data cleaning, including converting categorical variables like gender and passenger class into numerical values and removing unnecessary columns.
 - Conducted Exploratory Data Analysis (EDA), visualizing correlations between survival rates and key variables using a heatmap.
